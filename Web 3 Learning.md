@@ -2,13 +2,13 @@
 
 
 
-## 1. enviroment build (truffle)
+## 1.Enviroment build (truffle)  
 
-1.Have a boot Camp Video & Book format, you can follow it on, then make a project.
+1.Have a boot Camp Video & Book format, you can follow it on, then make a project.  
 
 2.Start to Write the BlockChain App:
 
-1.Goal:(Goals)
+1.Goal:
 
 1.1set up the project
 
@@ -45,7 +45,6 @@ truffle init
 
 ## 2.truffle start project
 
-** Reference **
 
 [Build Your First Blockchain App Using Ethereum Smart Contracts and Solidity](https://www.youtube.com/watch?v=coQ5dg8wM2o)
 
@@ -63,15 +62,15 @@ truffle init
 
 [**Become a Blockchain Developer with this Comprehensive Course**](https://www.udemy.com/course/comprehensive-ethereum-blockchain-developer-course/?ranMID=39197&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-gW6zwWQwPRoIE4uuJ2DHjw&LSNPUBID=SAyYsTvLiGQ&utm_source=aff-campaign&utm_medium=udemyads)
 
-6.2Youtube:
+6.2 Youtube:
 
 [斯坦福大牛1小时教会你开发智能合约](https://www.youtube.com/watch?v=mEviHi6DhPo)
 
 [BitTiger Channel Block Chain Search](https://www.youtube.com/c/BitTiger/search?query=%E5%8C%BA%E5%9D%97%E9%93%BE)
 
-6.3Free Code Camp Channel Content Search
+6.3 Free Code Camp Channel Content Search
 
- 6.4Github   
+6.4 Github   
 
 [Building a web3 frontend with React](https://dev.to/rounakbanik/building-a-web3-frontend-with-react-340c) 
 
@@ -89,7 +88,7 @@ Web3 App Project (Front Mastery)
 
 
 
-6.7Website:
+6.7 Website:
 
 [Learn Web3 With These Free Resources (Updated 2022)](https://web3.career/learn-web3)
 
