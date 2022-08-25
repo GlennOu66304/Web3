@@ -95,7 +95,7 @@ https://www.scrappysquirrels.co/
 [from How to Build and Surf on the DECENTRALISED WEB!](https://www.youtube.com/watch?v=NQI4-7MkisI)
 
 # 6.Resources
-[github Web3 Project](https://github.com/GlennOu66304/Full-Stack-Development/blob/1ea05723b97b95c1787194cc326ac2d3ade6f040/Web3/Web%203%20project.md)  
+[github Web3 Project](https://github.com/GlennOu66304/Full-Stack-Development/blob/master/Web3/README.md)  
 [Learn Web3 With These Free Resources (Updated 2022)](https://web3.career/learn-web3)
 
 
