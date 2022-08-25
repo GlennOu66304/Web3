@@ -58,6 +58,29 @@ truffle init
 ## 5.Bitiger Github Roadmap
 [100个精品项目带你学会区块链](https://github.com/Fabsqrt/BitTiger/tree/master/Blockchain)
 
+## 6.NFT
+
+1.NFT Contract build
+
+[Tutorial: Writing an NFT Collectible Smart Contract](https://medium.com/scrappy-squirrels/tutorial-writing-an-nft-collectible-smart-contract-9c7e235e96da)
+
+2.Front End to mint this NFT
+
+[Tutorial: Building a web3 frontend with React](https://medium.com/scrappy-squirrels/tutorial-building-a-web3-frontend-with-react-e0a87ea3bad)
+
+3.How front end user mint this NFT collection
+
+[Getting Started with NFT Collectibles & Communities (for free)](https://medium.com/scrappy-squirrels/getting-started-with-nft-collectibles-communities-for-free-24bab021a97)
+
+4.A demo which you can mint the NFT
+
+https://rsq-frontend.vercel.app/
+
+5.Resource
+
+https://www.scrappysquirrels.co/
+
+
 ## 6.Resources
 
 6.1Udemy:
@@ -69,9 +92,6 @@ truffle init
 6.3 Free Code Camp Channel Content Search
 
 6.4 Github   
-
-[Building a web3 frontend with React](https://dev.to/rounakbanik/building-a-web3-frontend-with-react-340c) 
-
 [Web3 Project](https://github.com/GlennOu66304/Full-Stack-Development/blob/1ea05723b97b95c1787194cc326ac2d3ade6f040/Web3/Web%203%20project.md)  
 
 Web3 App Project (Front Mastery)
@@ -79,11 +99,7 @@ Web3 App Project (Front Mastery)
 6.5 Notion   
 [[Snippets from How to Build and Surf on the DECENTRALISED WEB! (Web3)](https://www.youtube.com/watch?v=NQI4-7MkisI)]
 
-6.6 Cubox   
-
-[Building a web3 frontend with React](https://dev.to/rounakbanik/building-a-web3-frontend-with-react-340c)
-
-6.7 Website:
+6.6 Website:
 
 [Learn Web3 With These Free Resources (Updated 2022)](https://web3.career/learn-web3)
 
