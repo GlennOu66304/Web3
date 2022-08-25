@@ -16,7 +16,7 @@
 
 
 
-2Processs:
+2Processs:  
 
 0.build the directoy
 
@@ -80,6 +80,8 @@ https://rsq-frontend.vercel.app/
 
 https://www.scrappysquirrels.co/
 
+6.NFT domain, brave browser
+[from How to Build and Surf on the DECENTRALISED WEB!)](https://www.youtube.com/watch?v=NQI4-7MkisI)]
 
 ## 6.Resources
 
@@ -92,9 +94,9 @@ https://www.scrappysquirrels.co/
 
 6.4 Github   
 [Web3 Project](https://github.com/GlennOu66304/Full-Stack-Development/blob/1ea05723b97b95c1787194cc326ac2d3ade6f040/Web3/Web%203%20project.md)  
-Web3 App Project (Front Mastery)
-6.5 Notion   
-[[Snippets from How to Build and Surf on the DECENTRALISED WEB! (Web3)](https://www.youtube.com/watch?v=NQI4-7MkisI)]
+
+Web3 App Project (Front Mastery)    
+6.5 Notion    
 
 6.6 Website:
 
