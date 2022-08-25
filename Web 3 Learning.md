@@ -2,7 +2,7 @@
 
 
 
-##1.**Goal**:
+## 1. enviroment build (truffle)
 
 1.Have a boot Camp Video & Book format, you can follow it on, then make a project.
 
@@ -44,7 +44,7 @@ truffle init
 
 
 
-**Reference**
+** Reference **
 
 [Build Your First Blockchain App Using Ethereum Smart Contracts and Solidity](https://www.youtube.com/watch?v=coQ5dg8wM2o)
 
