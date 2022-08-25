@@ -1,8 +1,14 @@
-# Web 3 Learning
+# Web 3 Block Chain FullStack Learning(BlockEnd Techology):
 
+## Remix  
+OKC Chiain Project  
 
+## Hard hat
+[Build and Deploy a Modern Web 3.0 Blockchain App | Solidity, Smart Contracts, Crypto](https://www.youtube.com/watch?v=Wn_Kb3MR_cU)  
 
-## 1.Enviroment build (truffle)  
+## Truffle
+
+### 1.Enviroment build (truffle)  
 
 1.Have a boot Camp Video & Book format, you can follow it on, then make a project.  
 
@@ -45,15 +51,12 @@ truffle init
 
 ## 2.truffle start project
 
-
 [Build Your First Blockchain App Using Ethereum Smart Contracts and Solidity](https://www.youtube.com/watch?v=coQ5dg8wM2o)
-
-
-## 3.OKC Chiain Project
 
 ## 4.ERC20 zepllin Project
 
 [斯坦福大牛1小时教会你开发智能合约](https://www.youtube.com/watch?v=mEviHi6DhPo)
+
 
 ## 5.Bitiger Github Roadmap
 [100个精品项目带你学会区块链](https://github.com/Fabsqrt/BitTiger/tree/master/Blockchain)
@@ -87,14 +90,11 @@ https://www.scrappysquirrels.co/
 
 6.1Udemy:
 
-[**Become a Blockchain Developer with this Comprehensive Course**](https://www.udemy.com/course/comprehensive-ethereum-blockchain-developer-course/?ranMID=39197&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-gW6zwWQwPRoIE4uuJ2DHjw&LSNPUBID=SAyYsTvLiGQ&utm_source=aff-campaign&utm_medium=udemyads)
+[Become a Blockchain Developer with this Comprehensive Course](https://www.udemy.com/course/comprehensive-ethereum-blockchain-developer-course/?ranMID=39197&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-gW6zwWQwPRoIE4uuJ2DHjw&LSNPUBID=SAyYsTvLiGQ&utm_source=aff-campaign&utm_medium=udemyads)
 
 6.3 Free Code Camp Channel Content Search   
 6.4 Github   
 [Web3 Project](https://github.com/GlennOu66304/Full-Stack-Development/blob/1ea05723b97b95c1787194cc326ac2d3ade6f040/Web3/Web%203%20project.md)  
-
-[Build and Deploy a Modern Web 3.0 Blockchain App | Solidity, Smart Contracts, Crypto](https://www.youtube.com/watch?v=Wn_Kb3MR_cU)  
-6.5 Notion    
 
 6.6 Website:
 
