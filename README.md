@@ -77,12 +77,12 @@ truffle init
 
 1.NFT Contract build   
 
-[Tutorial: Writing an NFT Collectible Smart Contract](https://medium.com/scrappy-squirrels/tutorial-writing-an-nft-collectible-smart-contract-9c7e235e96da)
-
+[Tutorial: Writing an NFT Collectible Smart Contract](https://medium.com/scrappy-squirrels/tutorial-writing-an-nft-collectible-smart-contract-9c7e235e96da)    
+[NFT Contract](https://github.com/GlennOu66304/NFT)   
 2.Front End to mint this NFT
 
 [Tutorial: Building a web3 frontend with React](https://medium.com/scrappy-squirrels/tutorial-building-a-web3-frontend-with-react-e0a87ea3bad)
-
+[NFTUI](https://github.com/GlennOu66304/nftui)     
 3.How front end user mint this NFT collection
 
 [Getting Started with NFT Collectibles & Communities (for free)](https://medium.com/scrappy-squirrels/getting-started-with-nft-collectibles-communities-for-free-24bab021a97)
