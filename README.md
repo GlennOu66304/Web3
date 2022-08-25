@@ -10,6 +10,8 @@
 OKC Chiain Project  
 
 
+[Solidity Tutorial - A Full Course on Ethereum, Blockchain Development, Smart Contracts, and the EVM](https://www.youtube.com/watch?v=ipwxYa-F1uY) 
+
 # Truffle
 
 ### 1.Enviroment build (truffle)  
@@ -68,7 +70,9 @@ truffle init
 # Hard hat
 
 ### [Build and Deploy a Modern Web 3.0 Blockchain App | Solidity, Smart Contracts, Crypto](https://www.youtube.com/watch?v=Wn_Kb3MR_cU)  
+[Web3 DApp 最佳编程实践指南 guoyu](https://guoyu.mirror.xyz/RD-xkpoxasAU7x5MIJmiCX4gll3Cs0pAd5iM258S1Ek)  
 
+[Solidity Tutorial – How to Create NFTs with Hardhat](https://www.freecodecamp.org/news/solidity-tutorial-hardhat-nfts/)  
 ### 6.NFT
 
 1.NFT Contract build   
@@ -98,5 +102,5 @@ https://www.scrappysquirrels.co/
 [github Web3 Project](https://github.com/GlennOu66304/Full-Stack-Development/blob/master/Web3/README.md)  
 [Learn Web3 With These Free Resources (Updated 2022)](https://web3.career/learn-web3)
 
-
+[Resources I Used to Teach Myself Blockchain Development](https://www.freecodecamp.org/news/the-resources-i-used-to-teach-myself-blockchain-development-1fccada9b92b/)  
 
