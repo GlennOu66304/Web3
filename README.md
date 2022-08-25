@@ -1,10 +1,10 @@
 # Web 3 Block Chain FullStack Learning(BlockEnd Techology):
 
-## Remix  
+# Remix  
 OKC Chiain Project  
 
 
-## Truffle
+# Truffle
 
 ### 1.Enviroment build (truffle)  
 
@@ -59,7 +59,7 @@ truffle init
 ## 5.Bitiger Github Roadmap
 [100个精品项目带你学会区块链](https://github.com/Fabsqrt/BitTiger/tree/master/Blockchain)
 
-## Hard hat
+# Hard hat
 
 ### [Build and Deploy a Modern Web 3.0 Blockchain App | Solidity, Smart Contracts, Crypto](https://www.youtube.com/watch?v=Wn_Kb3MR_cU)  
 
@@ -88,7 +88,7 @@ https://www.scrappysquirrels.co/
 6.NFT domain, brave browser
 [from How to Build and Surf on the DECENTRALISED WEB!](https://www.youtube.com/watch?v=NQI4-7MkisI)
 
-## 6.Resources
+# 6.Resources
 
 6.1Udemy:
 
