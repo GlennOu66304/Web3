@@ -5,6 +5,7 @@
 
 ## REMIX + HardHat
 [Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course](https://www.youtube.com/watch?v=gyMwXuJrbJQ)  
+[Web3, Full Stack Solidity, Smart Contract & Blockchain - Beginner to Expert ULTIMATE Course | Javascript Edition](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)   
 # Remix  
 OKC Chiain Project  
 
