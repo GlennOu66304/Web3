@@ -89,15 +89,9 @@ https://www.scrappysquirrels.co/
 [from How to Build and Surf on the DECENTRALISED WEB!](https://www.youtube.com/watch?v=NQI4-7MkisI)
 
 # 6.Resources
-
-6.1Udemy:
-
-[Become a Blockchain Developer with this Comprehensive Course](https://www.udemy.com/course/comprehensive-ethereum-blockchain-developer-course/?ranMID=39197&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-gW6zwWQwPRoIE4uuJ2DHjw&LSNPUBID=SAyYsTvLiGQ&utm_source=aff-campaign&utm_medium=udemyads)
-
-6.3 Free Code Camp Channel Content Search   
 [Web3 Project](https://github.com/GlennOu66304/Full-Stack-Development/blob/1ea05723b97b95c1787194cc326ac2d3ade6f040/Web3/Web%203%20project.md)  
-
-6.6 Website:
+[Become a Blockchain Developer with this Comprehensive Course](https://www.udemy.com/course/comprehensive-ethereum-blockchain-developer-course/?ranMID=39197&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-gW6zwWQwPRoIE4uuJ2DHjw&LSNPUBID=SAyYsTvLiGQ&utm_source=aff-campaign&utm_medium=udemyads)
+6.3 Free Code Camp Channel Content Search   
 [Learn Web3 With These Free Resources (Updated 2022)](https://web3.career/learn-web3)
 
 
