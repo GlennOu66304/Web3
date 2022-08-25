@@ -81,7 +81,7 @@ https://rsq-frontend.vercel.app/
 https://www.scrappysquirrels.co/
 
 6.NFT domain, brave browser
-[from How to Build and Surf on the DECENTRALISED WEB!)](https://www.youtube.com/watch?v=NQI4-7MkisI)]
+[from How to Build and Surf on the DECENTRALISED WEB!](https://www.youtube.com/watch?v=NQI4-7MkisI)
 
 ## 6.Resources
 
@@ -89,9 +89,7 @@ https://www.scrappysquirrels.co/
 
 [**Become a Blockchain Developer with this Comprehensive Course**](https://www.udemy.com/course/comprehensive-ethereum-blockchain-developer-course/?ranMID=39197&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-gW6zwWQwPRoIE4uuJ2DHjw&LSNPUBID=SAyYsTvLiGQ&utm_source=aff-campaign&utm_medium=udemyads)
 
-
-6.3 Free Code Camp Channel Content Search
-
+6.3 Free Code Camp Channel Content Search   
 6.4 Github   
 [Web3 Project](https://github.com/GlennOu66304/Full-Stack-Development/blob/1ea05723b97b95c1787194cc326ac2d3ade6f040/Web3/Web%203%20project.md)  
 
