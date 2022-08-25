@@ -58,7 +58,7 @@ truffle init
 [Build Your First Blockchain App Using Ethereum Smart Contracts and Solidity](https://www.youtube.com/watch?v=coQ5dg8wM2o)
 
 ## 4.ERC20 zepllin Project
-
+[HBCToken](https://github.com/GlennOu66304/HBCToken)    
 [斯坦福大牛1小时教会你开发智能合约](https://www.youtube.com/watch?v=mEviHi6DhPo)
 
 
@@ -71,7 +71,7 @@ truffle init
 
 ### 6.NFT
 
-1.NFT Contract build
+1.NFT Contract build   
 
 [Tutorial: Writing an NFT Collectible Smart Contract](https://medium.com/scrappy-squirrels/tutorial-writing-an-nft-collectible-smart-contract-9c7e235e96da)
 
@@ -91,7 +91,7 @@ https://rsq-frontend.vercel.app/
 
 https://www.scrappysquirrels.co/
 
-6.NFT domain, brave browser
+6.NFT domain, brave browser     
 [from How to Build and Surf on the DECENTRALISED WEB!](https://www.youtube.com/watch?v=NQI4-7MkisI)
 
 # 6.Resources
