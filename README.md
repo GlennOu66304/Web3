@@ -1,7 +1,10 @@
 # Web 3 Block Chain FullStack Learning(BlockEnd Techology):  
 ## Overview
-[Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course](https://www.youtube.com/watch?v=gyMwXuJrbJQ)      
-[Become a Blockchain Developer with this Comprehensive Course](https://www.udemy.com/course/comprehensive-ethereum-blockchain-developer-course/?ranMID=39197&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-gW6zwWQwPRoIE4uuJ2DHjw&LSNPUBID=SAyYsTvLiGQ&utm_source=aff-campaign&utm_medium=udemyads)   
+    
+[Become a Blockchain Developer with this Comprehensive Course](https://www.udemy.com/course/comprehensive-ethereum-blockchain-developer-course/?ranMID=39197&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-gW6zwWQwPRoIE4uuJ2DHjw&LSNPUBID=SAyYsTvLiGQ&utm_source=aff-campaign&utm_medium=udemyads) 
+
+## REMIX + HardHat
+[Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course](https://www.youtube.com/watch?v=gyMwXuJrbJQ)  
 # Remix  
 OKC Chiain Project  
 
