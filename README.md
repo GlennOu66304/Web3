@@ -93,7 +93,7 @@ https://www.scrappysquirrels.co/
 6.4 Github   
 [Web3 Project](https://github.com/GlennOu66304/Full-Stack-Development/blob/1ea05723b97b95c1787194cc326ac2d3ade6f040/Web3/Web%203%20project.md)  
 
-Web3 App Project (Front Mastery)    
+[Build and Deploy a Modern Web 3.0 Blockchain App | Solidity, Smart Contracts, Crypto](https://www.youtube.com/watch?v=Wn_Kb3MR_cU)  
 6.5 Notion    
 
 6.6 Website:
