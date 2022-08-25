@@ -81,7 +81,7 @@ truffle init
 [NFT Contract](https://github.com/GlennOu66304/NFT)   
 2.Front End to mint this NFT
 
-[Tutorial: Building a web3 frontend with React](https://medium.com/scrappy-squirrels/tutorial-building-a-web3-frontend-with-react-e0a87ea3bad)
+[Tutorial: Building a web3 frontend with React](https://medium.com/scrappy-squirrels/tutorial-building-a-web3-frontend-with-react-e0a87ea3bad)   
 [NFTUI](https://github.com/GlennOu66304/nftui)     
 3.How front end user mint this NFT collection
 
