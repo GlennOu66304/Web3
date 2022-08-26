@@ -70,6 +70,8 @@ truffle init
 # Hard hat
 
 ### [Build and Deploy a Modern Web 3.0 Blockchain App | Solidity, Smart Contracts, Crypto](https://www.youtube.com/watch?v=Wn_Kb3MR_cU)  
+[jsMasteryCrypto](https://github.com/GlennOu66304/jsMasteryCrypto)   
+
 [Web3 DApp 最佳编程实践指南 guoyu](https://guoyu.mirror.xyz/RD-xkpoxasAU7x5MIJmiCX4gll3Cs0pAd5iM258S1Ek)  
 
 [Solidity Tutorial – How to Create NFTs with Hardhat](https://www.freecodecamp.org/news/solidity-tutorial-hardhat-nfts/)  
