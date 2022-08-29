@@ -70,6 +70,9 @@ truffle init
 # Hard hat
 
 ### [Build and Deploy a Modern Web 3.0 Blockchain App | Solidity, Smart Contracts, Crypto](https://www.youtube.com/watch?v=Wn_Kb3MR_cU)  
+
+[contract](https://github.com/GlennOu66304/jsMasteryCrypto)   
+[UI](https://github.com/GlennOu66304/jsMasteryCryptoUI)    
 [jsMasteryCrypto](https://github.com/GlennOu66304/jsMasteryCrypto)   
 
 [Web3 DApp 最佳编程实践指南 guoyu](https://guoyu.mirror.xyz/RD-xkpoxasAU7x5MIJmiCX4gll3Cs0pAd5iM258S1Ek)  
