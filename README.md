@@ -7,7 +7,7 @@
 [Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course](https://www.youtube.com/watch?v=gyMwXuJrbJQ)  
 [Web3, Full Stack Solidity, Smart Contract & Blockchain - Beginner to Expert ULTIMATE Course | Javascript Edition](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)   
 # Remix  
-OKC Chiain Project  
+OKC Chiain Project:[QUICK START FOR MAINNET](https://okc-docs.readthedocs.io/en/latest/developers/deploy/remix.html)  
 
 
 [Solidity Tutorial - A Full Course on Ethereum, Blockchain Development, Smart Contracts, and the EVM](https://www.youtube.com/watch?v=ipwxYa-F1uY) 
