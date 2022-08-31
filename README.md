@@ -77,7 +77,10 @@ truffle init
 
 [Web3 DApp 最佳编程实践指南 guoyu](https://guoyu.mirror.xyz/RD-xkpoxasAU7x5MIJmiCX4gll3Cs0pAd5iM258S1Ek)  
 
-[Solidity Tutorial – How to Create NFTs with Hardhat](https://www.freecodecamp.org/news/solidity-tutorial-hardhat-nfts/)  
+[Solidity Tutorial – How to Create NFTs with Hardhat](https://www.freecodecamp.org/news/solidity-tutorial-hardhat-nfts/) 
+## FCC-Hardhat-FundMe
+[FCC-hardhat-fundme](https://github.com/GlennOu66304/FCC-hardhat-fundme)    
+
 ### 6.NFT
 
 1.NFT Contract build   
