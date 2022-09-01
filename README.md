@@ -111,7 +111,9 @@ https://www.scrappysquirrels.co/
 [Learn Web3 With These Free Resources (Updated 2022)](https://web3.career/learn-web3)
 
 [Resources I Used to Teach Myself Blockchain Development](https://www.freecodecamp.org/news/the-resources-i-used-to-teach-myself-blockchain-development-1fccada9b92b/)  
+Alchemy :[Welcome to the Road to Web3](https://docs.alchemy.com/docs/welcome-to-the-road-to-web3)   
 
+Web3 University: [The Road to Web3](https://www.web3.university/tracks/road-to-web3)   
 
 ## Coins mining
 
