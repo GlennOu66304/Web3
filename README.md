@@ -112,3 +112,9 @@ https://www.scrappysquirrels.co/
 
 [Resources I Used to Teach Myself Blockchain Development](https://www.freecodecamp.org/news/the-resources-i-used-to-teach-myself-blockchain-development-1fccada9b92b/)  
 
+
+## Coins mining
+
+[Mac Miner](https://github.com/GlennOu66304/CS-RESOURS-CENTER/blob/master/CS_FUN/Mining%20the%20Bitcoins%20on%20the%20Macbook%20(intel).md)
+
+[Unmineable](https://www.youtube.com/watch?v=Jr_RGpdsbxY)
