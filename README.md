@@ -120,6 +120,6 @@ Web3 University: [The Road to Web3](https://www.web3.university/tracks/road-to-w
 [Mac Miner](https://github.com/GlennOu66304/CS-RESOURS-CENTER/blob/master/CS_FUN/Mining%20the%20Bitcoins%20on%20the%20Macbook%20(intel).md)
 
 [Unmineable](https://www.youtube.com/watch?v=Jr_RGpdsbxY)
-
+[Fuck Elon musk](https://github.com/GlennOu66304/Full-Stack-Development/blob/master/Backend/Fuck%20Elon%20musk.md). 
 # Web3 Cyber Security 
 [Cyber-Security](https://github.com/GlennOu66304/Cyber-Security)   
