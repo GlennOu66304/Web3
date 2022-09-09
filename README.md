@@ -81,6 +81,7 @@ truffle init
 ## FCC-Hardhat-FundMe
 [FCC-hardhat-fundme](https://github.com/GlennOu66304/FCC-hardhat-fundme)    
 
+## [FCC-Hardhat-Lottery](https://github.com/GlennOu66304/FCC-Hardhat-Lottery)     
 ### 6.NFT
 
 1.NFT Contract build   
